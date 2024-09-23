@@ -60,6 +60,16 @@ body{
 .weatherIcon{
     width:170px;
     margin-top:30px;
+    display:none;
+}
+.error{
+    display:none;
+    visibility: hidden;
+    /* color:red; */
+}
+
+.weather{
+    visibility: visible;
 }
 
 .weather h1{
